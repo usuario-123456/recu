@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: adb
+Version: 0.0.1
+Summary: A Python interface to the Android Debug Bridge.
+License: Apache 2.0
+Keywords: adb android
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
